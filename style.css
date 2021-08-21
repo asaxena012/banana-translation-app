@@ -35,7 +35,7 @@ h1{
 
 textarea, #output{
     width: 30rem;
-    height: 6rem;
+    height: 5rem;
     padding: 0.6rem;
     margin: 1rem 0rem;
     font-size: 1.1rem;
@@ -63,5 +63,10 @@ footer{
     text-align: center;
     padding: 1.5rem 0rem;
     background: #D9ED92;
-    color: #184E77
+    color: #184E77;
+    line-height: 2em;
+}
+
+p a{
+    color: #34A0A4; 
 }
